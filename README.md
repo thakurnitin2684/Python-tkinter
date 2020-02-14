@@ -1,1 +1,2 @@
-# Python-tkinter
+# Python-project
+GUI using tkinter
